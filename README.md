@@ -1,6 +1,6 @@
 <div>
    <a href="https://github.com/joaoramoslucas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoramoslucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroramosdelucas10@gmail.com&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoramoslucas&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
 
 </div>
