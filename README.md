@@ -21,3 +21,4 @@
  
  ![Snake animation](https://github.com/joaoramoslucas/joaoramoslucas/blob/output/github-contribution-grid-snake.svg)
 </div>
+![snake gif](https://github.com/joaoramoslucas/joaoramoslucas/blob/output/github-contribution-grid-snake.svg)
